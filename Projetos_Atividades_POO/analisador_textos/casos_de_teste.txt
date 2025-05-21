@@ -1,7 +1,7 @@
 Casos de Teste
 ==============
 
-1. Texto curto sem números:
+1. Texto curto sem números: ok
 ----------------------------
 Entrada:
 "Olá mundo"
@@ -13,7 +13,7 @@ Saída esperada:
 - Número de caracteres (com espaços): 9
 - Frequência de vogais: a=0, e=0, i=0, o=2, u=1
 
-2. Texto com números:
+2. Texto com números: ok
 ----------------------
 Entrada:
 "A temperatura hoje é 30 graus"
@@ -23,7 +23,7 @@ Saída esperada:
 - Número de palavras: 6
 - Palavra mais longa: "temperatura"
 
-3. Texto completo:
+3. Texto completo: ok
 -------------------
 Entrada:
 "Python é uma linguagem poderosa e divertida"
